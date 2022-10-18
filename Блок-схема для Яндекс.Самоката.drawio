@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T09:28:51.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="2R3uY839qt7Gjzi4z4qJ" type="github"><diagram id="aLgYCHm-HcpVUOkNmto2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T09:37:03.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WBMXjVuk8UJjKDsMw9ri" version="20.4.1" type="github">
+  <diagram id="aLgYCHm-HcpVUOkNmto2" name="Страница 1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0C0IU8-g9lQaI9OtLCJH-1" target="0C0IU8-g9lQaI9OtLCJH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0C0IU8-g9lQaI9OtLCJH-3" target="0C0IU8-g9lQaI9OtLCJH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-3" value="Пользователь нажал кнопку &quot;Заказать&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0C0IU8-g9lQaI9OtLCJH-5" target="0C0IU8-g9lQaI9OtLCJH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0C0IU8-g9lQaI9OtLCJH-5" target="0C0IU8-g9lQaI9OtLCJH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-5" value="Данные &lt;br&gt;корректны?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-7" value="Вывод сообщения об ошибке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0C0IU8-g9lQaI9OtLCJH-8" value="Проверка уникальности полей &quot;Email&quot; и &quot;Телефон&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
