@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T14:11:59.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="toffYFwO60mYFyBUTM1B" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T14:13:11.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aX8c29AvWqPcAFw_NTFW" version="20.4.1" type="github">
   <diagram id="gYcPOvEcE3WvDf1aNGCh" name="Страница 1">
     <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,18 @@
         <mxCell id="altQwkNOwxbtIRewWvV6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="altQwkNOwxbtIRewWvV6-4" target="altQwkNOwxbtIRewWvV6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="altQwkNOwxbtIRewWvV6-24" value="да&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="altQwkNOwxbtIRewWvV6-13">
+          <mxGeometry x="0.7442" y="2" relative="1" as="geometry">
+            <mxPoint x="-22" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="altQwkNOwxbtIRewWvV6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="altQwkNOwxbtIRewWvV6-4" target="altQwkNOwxbtIRewWvV6-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="altQwkNOwxbtIRewWvV6-28" value="нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="altQwkNOwxbtIRewWvV6-20">
+          <mxGeometry x="0.8175" relative="1" as="geometry">
+            <mxPoint x="24" y="15" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="altQwkNOwxbtIRewWvV6-4" value="Данные&lt;br&gt;корректны?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="140" height="90" as="geometry" />
@@ -28,8 +38,18 @@
         <mxCell id="altQwkNOwxbtIRewWvV6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="altQwkNOwxbtIRewWvV6-6" target="altQwkNOwxbtIRewWvV6-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="altQwkNOwxbtIRewWvV6-26" value="да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="altQwkNOwxbtIRewWvV6-15">
+          <mxGeometry x="0.7029" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="altQwkNOwxbtIRewWvV6-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="altQwkNOwxbtIRewWvV6-6" target="altQwkNOwxbtIRewWvV6-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="altQwkNOwxbtIRewWvV6-27" value="нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="altQwkNOwxbtIRewWvV6-19">
+          <mxGeometry x="0.7124" y="-1" relative="1" as="geometry">
+            <mxPoint x="14" y="16" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="altQwkNOwxbtIRewWvV6-6" value="Данные пользователя&lt;br&gt;&amp;nbsp;находятся в базе данных?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="562.5" width="195" height="105" as="geometry" />
@@ -42,6 +62,11 @@
         </mxCell>
         <mxCell id="altQwkNOwxbtIRewWvV6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="altQwkNOwxbtIRewWvV6-8" target="altQwkNOwxbtIRewWvV6-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="altQwkNOwxbtIRewWvV6-25" value="да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="altQwkNOwxbtIRewWvV6-14">
+          <mxGeometry x="0.749" y="1" relative="1" as="geometry">
+            <mxPoint x="-21" y="-7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="altQwkNOwxbtIRewWvV6-8" value="Пользователь нажимает кнопку &quot;Отменить бронирование&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="440" width="150" height="90" as="geometry" />
